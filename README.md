@@ -13,3 +13,4 @@ House realizes a primitive Artificial Intelligence algorithm, while Player is ou
 
 Game is the main class containing as the varibles Deck, House and collection of Players.
 
+Find BlackJack.cpp in the branches.
