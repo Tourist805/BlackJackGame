@@ -14,3 +14,6 @@ House realizes a primitive Artificial Intelligence algorithm, while Player is ou
 Game is the main class containing as the varibles Deck, House and collection of Players.
 
 Find BlackJack.cpp there is my code, while UML class diagram is BlackJack.png file.
+
+
+![alt text](https://github.com/Tourist805/BlackJackGame/blob/main/BlackJack.png)
